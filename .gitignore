@@ -1,2 +1,6 @@
-classifier.joblib
-forecaster.joblib
+1. Random Forest Classifier - classifier.joblib
+
+2. XGBoost Regressor - forecaster.joblib
+
+  ##    Was not able to push this file as it was large than available file size.
+  ##  If required, run the notebook and test the models
