@@ -1,0 +1,25 @@
+
+python
+
+pandas library
+
+numpy library
+
+matplotlib 
+
+pyplot 
+
+seaborn
+
+scikit-learn
+
+xgboost
+
+statsmodels
+
+joblib
+
+imbalanced-learn
+
+streamlit
+
